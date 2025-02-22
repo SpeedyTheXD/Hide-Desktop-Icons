@@ -13,7 +13,7 @@ This project is a simple, light-weight program that hide/show desktop icons at a
 ## Table of Contents
 - [Introduction](#about)
 - [Features](#features)
-- [Installation](#installation methods)
+- [Installation](#installation-methods)
 
 ## ⭐ Features
 
