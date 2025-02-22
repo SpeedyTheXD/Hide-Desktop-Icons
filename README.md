@@ -35,4 +35,4 @@ This project is a simple, light-weight program that hide/show desktop icons at a
    ```bash
    git clone https://github.com/yourusername/project-name.git
    
-2. Download the package:
+2. Download the latest version from the **[Releases]([https://github.com/yourusername/your-repo/releases/latest](https://github.com/SpeedyTheXD/Hide-Desktop-Icons/releases)) page**.
