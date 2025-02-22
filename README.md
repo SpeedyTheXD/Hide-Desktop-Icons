@@ -13,7 +13,7 @@ This project is a simple, light-weight program that hide/show desktop icons at a
 ## Table of Contents
 - [Introduction](#about)
 - [Features](#features)
-- [Installation](#installation)
+- [Installation](#installation methods)
 
 ## ⭐ Features
 
@@ -29,7 +29,7 @@ This project is a simple, light-weight program that hide/show desktop icons at a
 
 - Lightweight *(i think)*
 
-## Installation
+## Installation Methods
 
 1. Clone the repository:
    ```bash
