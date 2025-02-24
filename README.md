@@ -10,6 +10,8 @@
 
 This project is a simple, light-weight program that hide/show desktop icons at a single key press!
 
+![hide_desktop_icon_thumb](https://github.com/user-attachments/assets/a0fcdd3d-c1e7-42bc-96a7-afaf60a26910)
+
 ## Table of Contents
 - [Introduction](#about)
 - [Features](#features)
