@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/Status-Updating-yellowgreen">
 </p>
 
-<p align="center"><b>Hide/Show</b> <i>desktop icons with a</i> <b>single key</b></p>
+<p align="center">
+  <b>Hide/Show</b> <i>desktop icons with a</i> <b>single key</b>
+</p>
 
 ## 🚀 About
 
@@ -24,8 +26,8 @@
 ![hide_desktop_icon_thumb](https://github.com/user-attachments/assets/a0fcdd3d-c1e7-42bc-96a7-afaf60a26910)
 
 ## Table of Contents
-- [Introduction](#about)
-- [Features](#features)
+- [Introduction](#-about)
+- [Features](#-features)
 - [Installation](#installation-methods)
 
 ## ⭐ Features
@@ -42,7 +44,7 @@
 
 - Lightweight *(i think)*
 
-## Installation Methods
+<h2 id="installation-methods">⚙️ Installation Methods</h2>
 
 1. Clone the repository:
    ```bash
