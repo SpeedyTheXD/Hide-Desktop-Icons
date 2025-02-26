@@ -51,3 +51,12 @@
    git clone https://github.com/SpeedyTheXD/Hide-Desktop-Icons.git
    
 2. Download the latest version from the **[Releases Page](https://github.com/SpeedyTheXD/Hide-Desktop-Icons/releases)**.
+
+## Video demonstration
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=k7LQGCrIFio">
+    <img src="https://github.com/user-attachments/assets/a0fcdd3d-c1e7-42bc-96a7-afaf60a26910" alt="Watch the video" width="800">
+  </a>
+</p>
+
