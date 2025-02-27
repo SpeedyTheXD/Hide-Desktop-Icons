@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white">
   <img src ="https://img.shields.io/badge/Language-C%2B%2B-blue?logo=c%2B%2B&logoColor=white"> 
+  <a href = "https://www.youtube.com/watch?v=k7LQGCrIFio"><img src="https://img.shields.io/badge/Tutorial-YouTube-red?logo=youtube" alt="Watch on YouTube"></a>
   <img src ="https://img.shields.io/badge/Version-1.0.0-blue">
 </p>
 
