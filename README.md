@@ -29,6 +29,7 @@
 - [Introduction](#-about)
 - [Features](#-features)
 - [Installation](#installation-methods)
+- [Video Demonstration](#video)
 
 ## ⭐ Features
 
@@ -52,11 +53,12 @@
    
 2. Download the latest version from the **[Releases Page](https://github.com/SpeedyTheXD/Hide-Desktop-Icons/releases)**.
 
-## Video demonstration
+<h2 id="video">📹 Video Demonstration</h2>
+
+- A video on **how to download** and use the **program**.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=k7LQGCrIFio">
     <img src="https://github.com/user-attachments/assets/a0fcdd3d-c1e7-42bc-96a7-afaf60a26910" alt="Watch the video" width="800">
   </a>
 </p>
-
